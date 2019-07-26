@@ -1,1 +1,1 @@
-# crypto-prices.gs
+# Crypto Prices
